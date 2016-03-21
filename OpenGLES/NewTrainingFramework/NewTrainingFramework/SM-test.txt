@@ -1,0 +1,55 @@
+#Objects
+ObjectsCount 3
+
+ID	0
+MODEL_ID	2
+2DTexturesCount 1
+TEXTURE_ID 02
+CubeTexturesCount 0
+SHADER_ID 0
+LightsCount 0
+SpecificParametersCount 0
+POS -14.4, 11.5, -13.6
+ROTATION 0, .45, 0
+SCALE .1, .1, .1
+
+ID	01
+MODEL_ID	03
+2DTexturesCount 1
+TEXTURE_ID 03
+CubeTexturesCount 0
+SHADER_ID 0
+LightsCount 0
+SpecificParametersCount 0
+POS 60, 25.0, -60
+ROTATION 2.5, 2.4, -.8
+SCALE .03, .03, .03
+
+ID	04
+MODEL_ID	04
+2DTexturesCount 4
+TEXTURE_ID 04
+TEXTURE_ID 05
+TEXTURE_ID 06
+TEXTURE_ID 07
+CubeTexturesCount 0
+SHADER_ID 01
+LightsCount 0
+SpecificParametersCount 0
+POS 0.0, 0.0, 0.0
+ROTATION 0.0, 0.0, 0.0
+SCALE 1.0, 1.0, 1.0
+
+
+#LIGHTS
+AmbientColor 1.0, 1.0, 1.0
+AmbientWeight 0.3
+LightsCount 0
+
+
+#CAMERA
+NEAR 0.1
+FAR 7000.0
+FOV 1.0
+SPEED 20.0
+
